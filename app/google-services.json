@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "725556027964",
+    "firebase_url": "https://findfriendsnearby.firebaseio.com",
+    "project_id": "findfriendsnearby",
+    "storage_bucket": "findfriendsnearby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725556027964:android:de44c5f42e18d7e9",
+        "android_client_info": {
+          "package_name": "me.issacholguin.findfriendsnearby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725556027964-6eu4uehi6lmtln714rijdu2i6g1oj4n9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.issacholguin.findfriendsnearby",
+            "certificate_hash": "6e99a5bf30256221969fa56216a1d58575202522"
+          }
+        },
+        {
+          "client_id": "725556027964-k8dt42rmb2eq81srb32utdj32ttcr7v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdMDT6pUSnsi8J69zQWF2dzVpQa8kKzVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725556027964-k8dt42rmb2eq81srb32utdj32ttcr7v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
