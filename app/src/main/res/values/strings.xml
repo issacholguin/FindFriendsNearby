@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">FindFriendsNearby</string>
     <string name="title_activity_maps">Map</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="facebook_app_id">1922187777817383</string>
+    <string name="fb_login_protocol_scheme">fb1922187777817383</string>
+    <string name="loading">Loading...</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="logout">Logout?</string>
+
 </resources>

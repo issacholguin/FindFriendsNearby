@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/login_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="103dp"
+        android:layout_marginTop="332dp"
+        android:layout_marginEnd="103dp"
+        android:layout_marginBottom="153dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <!--
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="220dp"
+            android:layout_height="53dp"
+            android:layout_marginStart="82dp"
+            android:layout_marginTop="71dp"
+            android:layout_marginEnd="82dp"
+            android:layout_marginBottom="55dp"
+            android:text="@string/enter_phone_number"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toTopOf="@+id/phone_num_input"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/phone_num_input"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="85dp"
+            android:layout_marginTop="55dp"
+            android:layout_marginEnd="84dp"
+            android:layout_marginBottom="286dp"
+            android:ems="10"
+            android:inputType="number"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+        <Button
+            android:id="@+id/signup_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="147dp"
+            android:layout_marginTop="49dp"
+            android:layout_marginEnd="149dp"
+            android:layout_marginBottom="161dp"
+            android:text="@string/sign_up"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/phone_num_input"
+            app:layout_constraintVertical_bias="0.0" />
+
+            -->
+</android.support.constraint.ConstraintLayout>
